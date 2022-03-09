@@ -10,4 +10,8 @@ public class  BiludlejningApplication {
         SpringApplication.run(BiludlejningApplication.class, args);
     }
 
+    //@GetMapping("/hello")
+    //public String helloWorld(){
+        //return "Hello, mofo!";
+    //}
 }
